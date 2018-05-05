@@ -1,0 +1,11 @@
+D:\Projects\ToDoApp-netCore\ToDoApp-netCore\bin\Debug\netcoreapp2.0\ToDoApp-netCore.deps.json
+D:\Projects\ToDoApp-netCore\ToDoApp-netCore\bin\Debug\netcoreapp2.0\ToDoApp-netCore.runtimeconfig.json
+D:\Projects\ToDoApp-netCore\ToDoApp-netCore\bin\Debug\netcoreapp2.0\ToDoApp-netCore.runtimeconfig.dev.json
+D:\Projects\ToDoApp-netCore\ToDoApp-netCore\bin\Debug\netcoreapp2.0\ToDoApp-netCore.dll
+D:\Projects\ToDoApp-netCore\ToDoApp-netCore\obj\Debug\netcoreapp2.0\ToDoApp-netCore.csprojResolveAssemblyReference.cache
+D:\Projects\ToDoApp-netCore\ToDoApp-netCore\obj\Debug\netcoreapp2.0\ToDoApp-netCore.csproj.CoreCompileInputs.cache
+D:\Projects\ToDoApp-netCore\ToDoApp-netCore\obj\Debug\netcoreapp2.0\ToDoApp-netCore.AssemblyInfoInputs.cache
+D:\Projects\ToDoApp-netCore\ToDoApp-netCore\obj\Debug\netcoreapp2.0\ToDoApp-netCore.AssemblyInfo.cs
+D:\Projects\ToDoApp-netCore\ToDoApp-netCore\bin\Debug\netcoreapp2.0\ToDoApp-netCore.pdb
+D:\Projects\ToDoApp-netCore\ToDoApp-netCore\obj\Debug\netcoreapp2.0\ToDoApp-netCore.dll
+D:\Projects\ToDoApp-netCore\ToDoApp-netCore\obj\Debug\netcoreapp2.0\ToDoApp-netCore.pdb
